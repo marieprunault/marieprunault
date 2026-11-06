@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marie Prunault
 - 👀 I’m interested in architecture (buildings) parametric design, digital fabrication.
-- 🌱 I’m currently learning archicad+bim, blender+blender bim, affinity and as always more add-ons for Rhino and GH, the interoperabilty between all that, and how to drive a bunch of that from anaconda/spyder/Cpython.
+- 🌱 I’m currently turning things downside up to see what s under.
 - 💞️ I’m looking to collaborate on lets see...
 - 📫 How to reach me marieprunault@gmail.com.
 
